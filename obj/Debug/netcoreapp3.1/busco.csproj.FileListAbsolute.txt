@@ -1,0 +1,104 @@
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.exe
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.deps.json
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.runtimeconfig.json
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.runtimeconfig.dev.json
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.pdb
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.Views.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\busco.Views.pdb
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.csprojAssemblyReference.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.AssemblyInfoInputs.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.AssemblyInfo.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.csproj.CoreCompileInputs.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.RazorAssemblyInfo.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.RazorAssemblyInfo.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.TagHelpers.input.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.TagHelpers.output.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.RazorCoreGenerate.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.RazorTargetAssemblyInfo.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.RazorTargetAssemblyInfo.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.Views.pdb
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.csproj.CopyComplete
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\staticwebassets\busco.StaticWebAssets.Manifest.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\staticwebassets\busco.StaticWebAssets.xml
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.pdb
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\busco.genruntimeconfig.cache
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\patricia\Desktop\USMP-6TO CICLO\PROGRAMACION 1\teoria\busco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.exe
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.deps.json
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.runtimeconfig.json
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.runtimeconfig.dev.json
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.pdb
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.Views.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\busco.Views.pdb
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.csprojAssemblyReference.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.AssemblyInfo.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.RazorAssemblyInfo.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.RazorAssemblyInfo.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.TagHelpers.input.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.TagHelpers.output.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.RazorCoreGenerate.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.Views.pdb
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.csproj.CopyComplete
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\staticwebassets\busco.StaticWebAssets.Manifest.cache
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\staticwebassets\busco.StaticWebAssets.xml
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.dll
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.pdb
+C:\Users\USER\Documents\PROGRAMACION-1\busco\obj\Debug\netcoreapp3.1\busco.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+﻿@model List<Registro>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Lista de solicitud de compra</h1>
+<table class="table" style="background-color: #FFFFFF!important;">
+    
+    <tr>
+        <th>Nombre</th>
+        <th>Url</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+        <th>Celular</th>
+        <th>Lugar</th>
+        <th>NombreUsuario</th>
+    </tr>
+
+    @if (Model.Count == 0) {
+            <tr>
+                <td colspan="4" class="text-center">No se encontraron registros.</td>
+            </tr>
+        }
+        
+    @foreach (var registro in Model)
+    {
+        <tr>
+            <td>@registro.Nombre</td>
+            <td>@registro.Url</td>
+            <td>@registro.Descripcion</td>
+            <td>@registro.Precio</td>
+            <td>@registro.Celular</td>
+            <td>@registro.Lugar</td>
+            <td>@registro.NombreUsuario</td> 
+        </tr>
+    }
+</table>
+</div>
